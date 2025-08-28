@@ -1,4 +1,4 @@
-title: "Astronomy & Birding & Coding • Dingshan Deng"
+title: "Astronomy • Birding • Coding • Dingshan Deng"
 description: "Personal academic website"
 url: "https://dingshandeng.github.io" # e.g., https://username.github.io
 baseurl: "" # e.g., /my-site if using a project page
@@ -67,4 +67,4 @@ kramdown:
   input: GFM
 
 # SEO
-logo: /assets/images/avatar.png
+# logo: /assets/images/avatar.png
