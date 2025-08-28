@@ -1,8 +1,8 @@
-title: "Dingshan Deng — Research & Software"
+title: "Astronomy & Birding & Coding • Dingshan Deng"
 description: "Personal academic website"
 url: "https://dingshandeng.github.io" # e.g., https://username.github.io
 baseurl: "" # e.g., /my-site if using a project page
-repository: "" # e.g., username/username.github.io
+repository: "dingshandeng/dingshandeng.github.io" # e.g., username/username.github.io
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
