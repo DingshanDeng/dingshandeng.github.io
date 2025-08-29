@@ -3,7 +3,7 @@ layout: archive
 title: "Posts"
 permalink: /posts/
 classes: wide
-author_profile: false
+author_profile: true
 entries_layout: list   # or "grid"
 show_excerpts: true    # show first paragraph under each post
 ---

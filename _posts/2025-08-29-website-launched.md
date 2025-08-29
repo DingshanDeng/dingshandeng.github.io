@@ -1,4 +1,6 @@
 ---
+# layout: single
+# classes: narrow 
 title: "Website launched"
 date: 2025-08-29
 ---
