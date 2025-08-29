@@ -1,6 +1,19 @@
-# Theme
-# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "mint"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+  # - jekyll-remote-theme
+  # - jekyll-paginate
+  # - jekyll-gist
+
+# mimic GitHub Pages with --safe
+# whitelist:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-gist
+#   - jekyll-feed
+#   - jekyll-include-cache
+#   - jekyll-remote-theme
 
 # Site Settings
 locale: "en-US"
@@ -9,6 +22,10 @@ description: "Personal academic website"
 url: "https://dingshandeng.github.io" # e.g., https://username.github.io
 baseurl: "" # e.g., /my-site if using a project page
 repository: "dingshandeng/dingshandeng.github.io" # e.g., username/username.github.io
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "mint"
 
 author:
   name: "Dingshan Deng"
@@ -64,23 +81,6 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Pagination with jekyll-paginate
 paginate: 5
 paginate_path: /news/page:num/
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
-  # - jekyll-remote-theme
-  # - jekyll-paginate
-  # - jekyll-gist
-
-# mimic GitHub Pages with --safe
-# whitelist:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jekyll-include-cache
-#   - jekyll-remote-theme
 
 # Build options
 markdown: kramdown
