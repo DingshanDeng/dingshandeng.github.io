@@ -1,5 +1,5 @@
 ---
-title: Photos
+title: Posts
 permalink: /photos/
 classes: wide
 ---
