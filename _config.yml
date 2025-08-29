@@ -1,17 +1,14 @@
+# Theme
+# remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "mint"
+
+# Site Settings
+locale: "en-US"
 title: "Astronomy • Birding • Coding • Dingshan Deng"
 description: "Personal academic website"
 url: "https://dingshandeng.github.io" # e.g., https://username.github.io
 baseurl: "" # e.g., /my-site if using a project page
 repository: "dingshandeng/dingshandeng.github.io" # e.g., username/username.github.io
-
-# Theme
-remote_theme: "mmistakes/minimal-mistakes@4.26.2"
-minimal_mistakes_skin: "mint"
-
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-include-cache
 
 author:
   name: "Dingshan Deng"
@@ -34,7 +31,61 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?hl=en&user=73UPeecAAAAJ"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://www.instagram.com/dingshan.deng/"
 
+# Site Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:dingshandeng@arizona.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/dingshandeng"
+    - label: "ads"
+      icon: "ai ai-ads"
+      url: "https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0777-7392&sort=date+desc"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0003-0777-7392"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?hl=en&user=73UPeecAAAAJ"
+  # since: "2013"
+
+# Reading Files
+include:
+  - _pages
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Pagination with jekyll-paginate
+paginate: 5
+paginate_path: /news/page:num/
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-gist
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Build options
+markdown: kramdown
+kramdown:
+  input: GFM
+
+  
 # Navigation
 collections:
   pages:
@@ -48,23 +99,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
 
-paginate: 5
-paginate_path: /news/page:num/
-
-include:
-  - _pages
-
-# Build options
-markdown: kramdown
-kramdown:
-  input: GFM
 
 # SEO
 # logo: /assets/images/avatar.png
+
+# enable site-wide search
+search: true
