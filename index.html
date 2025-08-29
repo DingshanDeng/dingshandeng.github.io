@@ -1,6 +1,46 @@
 ---
 layout: home
-title: "Home"
-paginate: 5
-paginate_path: "/page:num/"
+title: "Welcome!"
+# optional hero
+header:
+    overlay_image: /assets/images/hero.jpg
+    overlay_filter: 0.2
+
+# Tiles config
+feature_row:
+  - image_path: /assets/images/card-about.jpg
+    alt: "About me"
+    title: "About me"
+    excerpt: "Who I am and what I do."
+    url: /about/
+    btn_label: "Learn more"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/card-research.jpg
+    alt: "Research"
+    title: "Research"
+    excerpt: "Projects, highlights, publications."
+    url: /research/
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/card-software.jpg
+    alt: "Software"
+    title: "Software"
+    excerpt: "Code, packages, tools."
+    url: /software/
+    btn_label: "View tools"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/card-photos.jpg
+    alt: "Photos"
+    title: "Photos"
+    excerpt: "Gallery."
+    url: /photos/
+    btn_label: "See photos"
+    btn_class: "btn--primary"
 ---
+
+<p>Welcome! I study the dust and gas in protoplanetary disks. Explore my <strong>research</strong>, <strong>software</strong>, and <strong>photos</strong>.</p>
+
+{% include feature_row id="feature_row" %}

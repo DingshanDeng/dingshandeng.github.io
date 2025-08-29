@@ -2,8 +2,8 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
+  - jekyll-paginate
   # - jekyll-remote-theme
-  # - jekyll-paginate
   # - jekyll-gist
 
 # mimic GitHub Pages with --safe
@@ -79,7 +79,7 @@ encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Pagination with jekyll-paginate
-paginate: 5
+paginate: 10
 paginate_path: /news/page:num/
 
 # Build options
