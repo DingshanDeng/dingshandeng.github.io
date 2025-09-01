@@ -2,21 +2,22 @@
 layout: home
 title: "Dingshan Deng"
 excerpt: "PhD candidate at the University of Arizona. dingshandeng[at]arizona.edu"
-author_profile: true   # ← keep sidebar
+author_profile: false   # ← keep sidebar
+classes: wide           # ← use the wider content column
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
   overlay_image: "/assets/images/background.jpeg"
-  actions:
-    - label: "CV (PDF)"
-      url: "{{'/assets/cv.pdf' | relative_url }}"
-      class: "btn--primary btn--large"
-    - label: "Publications (ADS)"
-      url: "https://ui.adsabs.harvard.edu/search?q=orcid%3A0000-0003-0777-7392&sort=date+desc"
-      class: "btn--outline btn--large"
-    - label: "GitHub"
-      url: "https://github.com/dingshandeng"
-      class: "btn--large"
+  # actions:
+  #   - label: "CV (PDF)"
+  #     url: "{{'/assets/cv.pdf' | relative_url }}"
+  #    class: "btn--primary btn--large"
+  #  - label: "Publications (ADS)"
+  #    url: "https://ui.adsabs.harvard.edu/search?q=orcid%3A0000-0003-0777-7392&sort=date+desc"
+  #    class: "btn--outline btn--large"
+  #  - label: "GitHub"
+  #    url: "https://github.com/dingshandeng"
+  #    class: "btn--large"
 ---
 
 <!-- 
@@ -27,6 +28,34 @@ header:
 <p>Tucson area is not only famous for its amazing night sky, but also an oasis where desert life thrives, including many birds settle or visit through out the year. Whenever we have time, we go out for hiking, birding and star-gazing.</p>
 
 <p>Contact me:</p><p style="color:darkblue;">dingshandeng[at]arizona.edu</p> -->
+
+<!-- Intro row -->
+<div class="intro-grid">
+  <figure class="intro-photo">
+    <img src="/assets/images/me.jpeg" alt="Dingshan Deng">
+  </figure>
+
+  <div class="intro-copy">
+    <h2 class="intro-title">Welcome</h2>
+    <p>
+      I’m a PhD candidate at the University of Arizona working with Dr. Ilaria Pascucci and Dr. Uma Gorti. 
+      My research focus now is combining observations and modeling to understand protoplanetary disks, and I lead the development of self-consistent thermochemical disk model DiskMINT.
+      I also have broad interests in the star and planet formation, circumstellar materials around different stars, as well as exoplanet detections. 
+    </p>
+    <p>
+      I enjoy hiking, birding, and stargazing in the Desert and Mountains. Tucson area is not only famous for its amazing night sky, but also an oasis where desert life thrives, including many birds settle or visit through out the year. 
+    </p>
+    <p>
+      Feel free to reach out!
+    </p>
+
+    <div class="intro-actions">
+      <a class="btn btn--primary btn--large" href="/assets/cv.pdf">CV (PDF)</a>
+      <a class="btn btn--primary btn--large" href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0777-7392&sort=date+desc" target="_blank" rel="noopener">Publication list (ads)</a>
+      <a class="btn btn--primary btn--large" href="https://github.com/DingshanDeng" target="_blank" rel="noopener">GitHub Homepage</a>
+    </div>
+  </div>
+</div>
 
 <!-- <div class="button-row">
   <a class="btn btn--primary btn--large" href="/assets/cv.pdf">CV (PDF)</a>
