@@ -37,6 +37,50 @@ header:
 <p>Contact me:</p><p style="color:darkblue;">dingshandeng[at]arizona.edu</p> -->
 
 <!-- Intro row -->
+
+<!-- ONE-TIME: intro row style -->
+<style>
+.intro-grid {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+/* Left: image */
+.intro-photo {
+  flex: 1 1 300px;
+  max-width: 350px;
+}
+
+.intro-photo img {
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+/* Right: text */
+.intro-copy {
+  flex: 2 1 500px;
+}
+
+.intro-title {
+  margin-top: 0;
+}
+
+/* Mobile stacking */
+@media (max-width: 768px) {
+  .intro-grid {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .intro-copy {
+    text-align: left;
+  }
+}
+</style>
+
 <div class="intro-grid">
   <figure class="intro-photo">
     <img src="/assets/images/me.jpeg" alt="Dingshan Deng">
