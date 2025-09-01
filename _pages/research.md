@@ -17,30 +17,6 @@ permalink: /research/
     </div>
 
     <div class="paper-card__body">
-      <h3 class="paper-card__title">AGE‑PRO III. Dust and Gas Disk Properties in the Lupus Star‑forming Region</h3>
-      <p class="paper-card__subtitle">Dingshan Deng et al. (2025) <span aria-hidden="true">·</span> ApJ</p>
-
-      <p class="paper-card__excerpt">
-        AGE-PRO (Atacama Large Millimeter/submillimeter Array survey of Gas Evolution in PROtoplanetary disks) is an ALMA Large Program dedicated to study the disk evolution by combining a sample of 30 disks in three different star-forming regions: young Ophicus, mid-age Lupus, and older Upper Sco. I led the data calibration and analysis on the 10 disks in the Lupus star forming region, and the key results are presented in the ApJ focus issue with AGE-PRO. III summarizing the Lupus disks. We find strong correlations of the CO isotopologue line fluxes with continuum flux densities, and a correlation between C<sup>18</sup>O J=2–1 and N<sub>2</sub>H<sup>+</sup> J=3–2 fluxes, indicating similar CO abundances across this sample. We also show that the estimated gas disk masses in AGE-PRO agree with those in Ruaud et al. (2022).
-      </p>
-
-      <div class="paper-card__actions">
-        <a class="btn btn--primary" href="https://iopscience.iop.org/collections/apj-250623-01-Focus-on-AGE-PRO" target="_blank" rel="noopener">AGE-PRO Focus Issue</a>
-        <a class="btn btn--primary" href="https://ui.adsabs.harvard.edu/abs/2025ApJ...989....3D/abstract" target="_blank" rel="noopener">Deng et al. (2025) AGE-PRO. III</a>
-        <a class="btn btn--primary" href="https://agepro.das.uchile.cl/data_page">Download Data</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-<section class="paper-card">
-  <div class="paper-card__inner">
-    <div class="paper-card__media">
-      <img src="/assets/images/AGE-PRO III.jpg" alt="AGE‑PRO III mosaic">
-    </div>
-
-    <div class="paper-card__body">
       <a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...989....3D/abstract" class="paper-card__title-link">AGE‑PRO III. Dust and Gas Disk Properties in the Lupus Star‑forming Region</a>
       <p class="paper-card__subtitle">Dingshan Deng et al. (2025) <span aria-hidden="true">·</span> ApJ</p>
 
