@@ -1,0 +1,36 @@
+/* Two equal, BIG tiles inside the content column */
+.tile-grid{
+  display:grid;
+  grid-template-columns:repeat(2, minmax(0,1fr));
+  gap:1.25rem;
+}
+
+/* Card look that matches Minimal Mistakes */
+.tile-card{
+  background:var(--mm-surface,#fff);
+  border-radius:12px;
+  box-shadow:0 2px 14px rgba(0,0,0,.06);
+  padding:1rem 1rem 1.25rem;
+}
+
+/* Equal teaser area for both tiles */
+.tile-card__teaser{
+  height:280px;            /* ↑ make 300–340px if you want larger */
+  border-radius:10px;
+  overflow:hidden;
+  margin-bottom:.65rem;
+}
+.tile-card__teaser img{
+  width:100%; height:100%;
+  object-fit:cover;        /* fill + even crop */
+  display:block;
+}
+
+/* Typography tweaks */
+.tile-card__title{ margin:.25rem 0 .35rem; }
+.tile-card__excerpt{ margin:0 0 .5rem; }
+
+/* Stack on small screens */
+@media (max-width: 900px){
+  .tile-grid{ grid-template-columns:1fr; }
+}

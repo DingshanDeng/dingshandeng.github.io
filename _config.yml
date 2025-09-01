@@ -48,9 +48,9 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com/citations?hl=en&user=73UPeecAAAAJ"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://www.instagram.com/dingshan.deng/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/dingshan.deng/"
 
 # Site Footer
 footer:
