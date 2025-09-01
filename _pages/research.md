@@ -1,5 +1,5 @@
 ---
-title: Research Focuses
+title: Research Highlights
 permalink: /research/
 layout: single
 author_profile: true
