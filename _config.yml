@@ -99,13 +99,13 @@ collections:
     permalink: /:path/
 
 defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      classes: wide
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     classes: wide
   - scope:
       path: ""
       type: posts

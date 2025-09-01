@@ -1,6 +1,9 @@
 ---
 title: Research Focuses
 permalink: /research/
+layout: single
+author_profile: true
+classes: wide
 ---
 
 ## Interests
@@ -33,22 +36,22 @@ permalink: /research/
   </div>
 </section>
 
-## Publications
+## Selected Publications
 
 <div class="button-row">
-  <a class="btn btn--primary btn--large" href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0777-7392&sort=date+desc" target="_blank" rel="noopener">Check them on ads</a>
+  <a class="btn btn--primary btn--large" href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0777-7392&sort=date+desc" target="_blank" rel="noopener">Full Publication List (ads)</a>
 </div>
 
 ### First Author and Key Contributions
 
-- **Deng, D.**, Vioque, M., Pascucci, I., et al., *2025*, **The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). III. Dust and Gas Disk Properties in the Lupus Star-forming Region**, *The Astrophysical Journaal*. [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...989....3D/abstract)
+- **Deng, D.**, Vioque, M., Pascucci, I., et al., *2025*, **The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). III. Dust and Gas Disk Properties in the Lupus Star-forming Region**, *The Astrophysical Journaal*. [ads](https://ui.adsabs.harvard.edu/abs/2025ApJ...989....3D/abstract)
 - AGE-PRO collabration (PI: Zhang, K.), including **Deng, D.** as co-I and one of the data delegate, *2025*, **The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). I-XII.**, *The Astrophysical Journal*, [focus issue](https://iopscience.iop.org/collections/apj-250623-01-Focus-on-AGE-PRO), [AGE-PRO website](https://agepro.das.uchile.cl)
-- **Deng, D.**, Pascucci, I., and Fernandes, R., *2025*, **ysoisochrone: A Python package to estimate masses and ages for YSOs**, *The Journal of Open Source Software*. [ADS](https://ui.adsabs.harvard.edu/abs/2025JOSS...10.7493D/abstract), [GitHub repo](https://github.com/DingshanDeng/ysoisochrone)
+- **Deng, D.**, Pascucci, I., and Fernandes, R., *2025*, **ysoisochrone: A Python package to estimate masses and ages for YSOs**, *The Journal of Open Source Software*. [ads](https://ui.adsabs.harvard.edu/abs/2025JOSS...10.7493D/abstract), [GitHub repo](https://github.com/DingshanDeng/ysoisochrone)
 - Xie, C., Pascucci, I., **Deng, D.**, et al., *2025*, **JWST Captures a Sudden Stellar Outburst and Inner Disk Wall Destruction**, *The Astrophysical Journal*, [ads](https://ui.adsabs.harvard.edu/abs/2025ApJ...978...34X/abstract)
-- **Deng, D.**, Ruaud, M., Gorti, U., and Pascucci, I., *2023*, **DiskMINT: A Tool to Estimate Disk Masses with CO Isotopologues**, *The Astrophysical Journal*. [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...954..165D/abstract), [GitHub repo](https://github.com/DingshanDeng/DiskMINT)
+- **Deng, D.**, Ruaud, M., Gorti, U., and Pascucci, I., *2023*, **DiskMINT: A Tool to Estimate Disk Masses with CO Isotopologues**, *The Astrophysical Journal*. [ads](https://ui.adsabs.harvard.edu/abs/2023ApJ...954..165D/abstract), [GitHub repo](https://github.com/DingshanDeng/DiskMINT)
 - Pascucci, I., Skinner, B.~N., **Deng, D.**, et al. *2023*, **Large Myr-old Disks Are Not Severely Depleted of Gas-phase CO or Carbon**, *The Astrophysical Journal*, [ads](https://ui.adsabs.harvard.edu/abs/2023ApJ...953..183P/abstract)
 - Huang, Q., Jiang, B., **Deng, D.**, et al., *2023*, **Estimation of the Flux at 1450 MHz of OB Stars for FAST and SKA**, *The Astronomical Journal*, [ads](https://ui.adsabs.harvard.edu/abs/2023AJ....166...23H/abstract), [VizieR catalog](https://vizier.cds.unistra.fr/viz-bin/VizieR-2)
-- **Deng, D.**, Sun, Y., Wang, T., et al., *2022*, **Infrared Excess of a Large OB Star Sample**, *The Astrophysical Journal*. [ADS](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..175D/abstract), [VizieR catalog](https://vizier.cds.unistra.fr/viz-bin/VizieR-2)
+- **Deng, D.**, Sun, Y., Wang, T., et al., *2022*, **Infrared Excess of a Large OB Star Sample**, *The Astrophysical Journal*. [ads](https://ui.adsabs.harvard.edu/abs/2022ApJ...935..175D/abstract), [VizieR catalog](https://vizier.cds.unistra.fr/viz-bin/VizieR-2)
 - Sun, Y., **Deng, D.**, and Yuan, H., *2021*, **Precision of the CSST stellar radial velocities**, *Research in Astronomy and Astrophysics*, [ads](https://ui.adsabs.harvard.edu/abs/2021RAA....21...92S/abstract)
 - Yuan, H., **Deng, D.**, and Sun, Y., *2021*, **A star-based method for precise wavelength calibration of the CSST slitless spectroscopic survey**, *Research in Astronomy and Astrophysics*, [ads](https://ui.adsabs.harvard.edu/abs/2021RAA....21...74Y/abstract)
-- **Deng, D.**, Sun, Y., Jian, M., et al., *2020*, **Intrinsic Color Indices of Early-type Dwarf Stars**, *The Astronomical Journal*. [ADS](https://ui.adsabs.harvard.edu/abs/2020AJ....159..208D/abstract)
+- **Deng, D.**, Sun, Y., Jian, M., et al., *2020*, **Intrinsic Color Indices of Early-type Dwarf Stars**, *The Astronomical Journal*. [ads](https://ui.adsabs.harvard.edu/abs/2020AJ....159..208D/abstract)

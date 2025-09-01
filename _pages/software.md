@@ -1,6 +1,9 @@
 ---
 title: Software
 permalink: /software/
+layout: single
+author_profile: true
+classes: wide
 ---
 
 The research software that is :
