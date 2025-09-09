@@ -44,7 +44,7 @@ classes: wide
 
 ### First Author and Key Contributions
 
-- **Deng, D.**, Vioque, M., Pascucci, I., et al., *2025*, **The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). III. Dust and Gas Disk Properties in the Lupus Star-forming Region**, *The Astrophysical Journaal*. [ads](https://ui.adsabs.harvard.edu/abs/2025ApJ...989....3D/abstract)
+- **Deng, D.**, Vioque, M., Pascucci, I., et al., *2025*, **The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). III. Dust and Gas Disk Properties in the Lupus Star-forming Region**, *The Astrophysical Journal*. [ads](https://ui.adsabs.harvard.edu/abs/2025ApJ...989....3D/abstract)
 - AGE-PRO collabration (PI: Zhang, K.), including **Deng, D.** as co-I and one of the data delegate, *2025*, **The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). I-XII.**, *The Astrophysical Journal*, [focus issue](https://iopscience.iop.org/collections/apj-250623-01-Focus-on-AGE-PRO), [AGE-PRO website](https://agepro.das.uchile.cl)
 - **Deng, D.**, Pascucci, I., and Fernandes, R., *2025*, **ysoisochrone: A Python package to estimate masses and ages for YSOs**, *The Journal of Open Source Software*. [ads](https://ui.adsabs.harvard.edu/abs/2025JOSS...10.7493D/abstract), [GitHub repo](https://github.com/DingshanDeng/ysoisochrone)
 - Xie, C., Pascucci, I., **Deng, D.**, et al., *2025*, **JWST Captures a Sudden Stellar Outburst and Inner Disk Wall Destruction**, *The Astrophysical Journal*, [ads](https://ui.adsabs.harvard.edu/abs/2025ApJ...978...34X/abstract)
