@@ -16,6 +16,29 @@ classes: wide
 <section class="paper-card">
   <div class="paper-card__inner">
     <div class="paper-card__media">
+      <img src="/assets/images/Fig_mgas_in_literature.pdf" alt="IMLup Mass Comparisons">
+    </div>
+
+    <div class="paper-card__body">
+      <a href="" class="paper-card__title-link">DiskMINT: Self-Consistent Thermochemical Disk Models with Radially Varying Gas and Dust -- Application to the Massive, CO-Rich Disk of IM Lup</a>
+      <p class="paper-card__subtitle">Dingshan Deng et al. <span aria-hidden="true">·</span> 2025ApJ in press</p>
+
+      <p class="paper-card__excerpt">
+        <strong>DiskMINT</strong> (Disk Models for INdividual Targets) builds self-consistent thermochemical disk models. In this work, we extend DiskMINT to allow spatially decoupled gas and dust distributions. The code computes gas temperatures in thermal equilibrium with dust, solves vertical gas hydrostatic equilibrium, and includes key CO-chemistry processes: selective photodissociation and freeze-out with CO/CO<sub>2</sub> ice conversion. We apply DiskMINT to the IM Lup disk—large and massive, yet previously inferred to show CO depletion up to 100 in thermochemical models. By jointly fitting the multi-wavelength SED, millimeter continuum, and C<sup>18</sup>O radial emission profiles, we obtain a gas disk mass of 0.02–0.08&nbsp;M<sub>☉</sub>, consistent with dynamical estimates within uncertainties. This approach enables robust gas-mass estimates in lower-mass disks where dynamical constraints are unavailable and in faint systems where rare species such as N<sub>2</sub>H<sup>+</sup> are too weak to detect.
+      </p>
+
+      <div class="paper-card__actions">
+        <a class="btn btn--primary" href="" target="_blank" rel="noopener">See Details on IM Lup Disk in Deng et al. (2025)</a>
+        <a class="btn btn--primary" href="/software/" target="_self">Learn More about DiskMINT</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="paper-card">
+  <div class="paper-card__inner">
+    <div class="paper-card__media">
       <img src="/assets/images/AGE-PRO III.jpg" alt="AGE‑PRO III mosaic">
     </div>
 
@@ -44,6 +67,7 @@ classes: wide
 
 ### First Author and Key Contributions
 
+- **Deng, D.**, Gorti, U., Pascucci, I., and Ruaud, M., *2025*, **DiskMINT: Self-Consistent Thermochemical Disk Models with Radially Varying Gas and Dust -- Application to the Massive, CO-Rich Disk of IM Lup**, *The Astrophysical Journal*. In press.
 - **Deng, D.**, Vioque, M., Pascucci, I., et al., *2025*, **The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). III. Dust and Gas Disk Properties in the Lupus Star-forming Region**, *The Astrophysical Journal*. [ads](https://ui.adsabs.harvard.edu/abs/2025ApJ...989....3D/abstract)
 - AGE-PRO collabration (PI: Zhang, K.), including **Deng, D.** as co-I and one of the data delegate, *2025*, **The ALMA Survey of Gas Evolution of PROtoplanetary Disks (AGE-PRO). I-XII.**, *The Astrophysical Journal*, [focus issue](https://iopscience.iop.org/collections/apj-250623-01-Focus-on-AGE-PRO), [AGE-PRO website](https://agepro.das.uchile.cl)
 - **Deng, D.**, Pascucci, I., and Fernandes, R., *2025*, **ysoisochrone: A Python package to estimate masses and ages for YSOs**, *The Journal of Open Source Software*. [ads](https://ui.adsabs.harvard.edu/abs/2025JOSS...10.7493D/abstract), [GitHub repo](https://github.com/DingshanDeng/ysoisochrone)
