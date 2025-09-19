@@ -16,7 +16,7 @@ classes: wide
 <section class="paper-card">
   <div class="paper-card__inner">
     <div class="paper-card__media">
-      <img src="/assets/images/Fig_mgas_in_literature.pdf" alt="IMLup Mass Comparisons">
+      <img src="/assets/images/Fig_mgas_in_literature.png" alt="IMLup Mass Comparisons">
     </div>
 
     <div class="paper-card__body">
@@ -34,6 +34,7 @@ classes: wide
     </div>
   </div>
 </section>
+
 
 
 <section class="paper-card">

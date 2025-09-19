@@ -1,0 +1,80 @@
+/* Base card */
+.paper-card {
+  margin: 2rem 0;                /* adds space above/below the card */
+}
+
+.paper-card__inner {
+  display: grid;
+  grid-template-columns: 1fr 1.2fr; /* media | body */
+  gap: 1.25rem;
+  align-items: start;
+}
+
+/* Media: make image fill its column */
+.paper-card__media img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;             /* optional */
+}
+
+/* Title + body */
+.paper-card__title-link {
+  display: block;
+  font-weight: 700;
+  font-size: 1.1rem;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.paper-card__title-link:hover {
+  text-decoration: underline;
+}
+
+.paper-card__subtitle {
+  margin: 0.25rem 0 0.75rem;
+  color: var(--text-muted, #666);
+}
+
+.paper-card__excerpt {
+  margin: 0 0 1rem;
+}
+
+/* Buttons */
+.paper-card__actions .btn {
+  margin-right: 0.5rem;
+  margin-bottom: 0.5rem; /* wrap nicely on small screens */
+}
+
+/* Add extra space after the whole section (blank line feel) */
+section.paper-card {
+  margin-bottom: 2.5rem; /* adjust to taste */
+}
+
+/* Responsive: stack media above text on narrow screens */
+@media (max-width: 800px) {
+  .paper-card__inner {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ===== Optional: bigger/wider variants ===== */
+
+/* 1) Wider within the normal content area (good default) */
+.paper-card--wide .paper-card__inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* 2) Full-bleed (edge-to-edge across viewport) */
+.paper-card--full {
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+  max-width: 100vw;
+}
+
+.paper-card--full .paper-card__inner {
+  max-width: 1200px; /* keep text readable */
+  margin: 0 auto;
+  padding: 0 1rem;   /* small side padding */
+}
