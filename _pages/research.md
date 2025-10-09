@@ -6,10 +6,21 @@ author_profile: true
 classes: wide
 ---
 
-## Interests
-- Planet formation and Exoplanet
-- Dust and Gas in Circumplanetary / Protoplanetary Disks
-- Multi‑wavelength (JWST, ALMA) datasets and modeling
+## Research Interests
+
+_How do planets and their building materials originate — and what does this reveal about the origins of worlds?_
+
+My research aims to trace the _physical and chemical pathways_ that lead from interstellar gas and dust to fully formed planetary systems. I study _protoplanetary disks_ -- rotating disks of gas and dust around young stars -- which are the birthplaces of planets. By combining multi-wavelength observations from JWST and ALMA with self-consistent thermochemical models, I investigate how disk physics, chemistry, and evolution shape the diversity of planets that emerge.
+
+A major component of my work is developing `DiskMINT`, an open-source modeling framework that couples disk physics and chemistry to interpret molecular line and ice observations. I use this tool to infer disk masses, chemical abundances, and ice compositions across disks of different stars -- linking the raw materials of planet formation with the conditions that make them. I also have extensive experience in reducing and analyzing ALMA interferometric data. As part of the ALMA Large Program AGE-PRO, I served as a delegated co-I responsible for data reduction.
+
+**Topics I study include**:
+
+ - Formation and early evolution of planetary systems
+ - Physics and chemistry of gas and dust in protoplanetary and circumplanetary disks
+ - Synergy of multi-wavelength observations (e.g., ALMA, JWST) for tracing the origins of planetary materials
+
+I am also broadly interested in related areas, including the interstellar and circumstellar gas and dust, the formation and evolution of young stars, and the demographics of exoplanet population.
 
 ---
 
