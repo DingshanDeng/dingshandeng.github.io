@@ -17,7 +17,7 @@ plugins:
 
 # Site Settings
 locale: "en-US"
-title: "Astronomy • Birding • Coding • Dingshan Deng"
+title: "Dingshan Deng"
 description: "Personal academic website"
 url: "https://dingshandeng.github.io" # e.g., https://username.github.io
 baseurl: "" # e.g., /my-site if using a project page
