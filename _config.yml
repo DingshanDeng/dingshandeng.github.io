@@ -51,6 +51,15 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dingshan.deng/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@dustyflycatcher"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-bilibili"
+      url: "https://space.bilibili.com/576655"
+    - label: "Rednote"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.rednote.com/user/profile/6194679000000000100040fc?tab=note"
 
 # Site Footer
 footer:
@@ -73,6 +82,15 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/dingshan.deng/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@dustyflycatcher"
+    - label: "Bilibili"
+      icon: "fab fa-fw fa-bilibili"
+      url: "https://space.bilibili.com/576655"
+    - label: "Rednote"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.rednote.com/user/profile/6194679000000000100040fc?tab=note"
 
   since: "2025"
 
