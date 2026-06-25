@@ -1,3 +1,23 @@
+/* Intro action buttons: 2-column grid so all 4 buttons share equal widths */
+.intro-actions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem;
+  margin-top: 1rem;
+}
+
+.intro-actions .btn {
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 480px) {
+  .intro-actions {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* Base card */
 .paper-card {
   margin: 2rem 0;                /* adds space above/below the card */
