@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Overview
 
-This is a personal academic website for Dingshan Deng (PhD candidate at the University of Arizona), built with Jekyll and deployed to GitHub Pages at https://dingshandeng.github.io. It uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme (`mint` skin).
+This is a personal academic website for Dingshan Deng (postdoctoral researcher at the University of Arizona), built with Jekyll and deployed to GitHub Pages at https://dingshandeng.github.io. It uses the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme (`mint` skin).
 
 ## Local Development
 
